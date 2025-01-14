@@ -36,17 +36,14 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repository-name.git
+git clone (https://github.com/neggmmm/Graduation-project.git)
 Set up the database:
 
 Import the provided SQL file (database.sql) into your MySQL server.
 Update database credentials in the config.php file.
 Start a local server:
-
 Use software like XAMPP or WAMP to run the project locally.
-Access the portal:
 
-Open a browser and navigate to http://localhost/your-project-folder.
 Usage
 Student Login:
 Students can log in using their university ID and password to access personal dashboards.
